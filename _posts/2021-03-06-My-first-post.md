@@ -56,12 +56,15 @@ last_modified_at: 2021-03-06
 아직도 어색하긴 하지만 제발 끈기있게 계속 글 썼으면 좋겠다. 근데 내가 이렇게 쓴 글도 누구나 구글로 볼 수 있는건가..? 그럼 좀 싫은데 비공개 포스트로 바꿀 수도 있나 알아봐야겠다.
 
 
-&#128073;마지막으로 다음에 해보고 싶은 일 정리하며 마무리,,
-- [ ]프로필 <span style="color:red">멋지게</span> 바꾸기
-- [ ]게시글 날짜 나오게 수정
-- [ ]상단바 만들기
-- [ ]폰트 defualt 값 좀 예쁜 걸로 바꿔보기
-- [ ]깃 레파지토리랑 연동해서 글 쓰기가 가능한지 알아보기
+&#128073;마지막으로 다음에 해보고 싶은 일 정리하며 마무리,,<br>
+
+
+<input type="checkbox" disabled  /> 프로필 <span style="color:red">멋지게</span> 바꾸기 <br>
+<input type="checkbox" disabled  /> 게시글 날짜 나오게 수정<br>
+<input type="checkbox" disabled  /> 상단바 만들기 <br>
+<input type="checkbox" disabled  /> 폰트 defualt 값 좀 예쁜 걸로 바꿔보기<br>
+<input type="checkbox" disabled  /> 깃 레파지토리랑 연동해서 글 쓰기가 가능한지 알아보기<br>
+
 
 
 
