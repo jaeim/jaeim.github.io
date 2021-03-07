@@ -62,7 +62,7 @@ connection.end();
 
 짠&#9996;
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210308_img.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/210308_img.PNG){: .align-center}
 
 
 
