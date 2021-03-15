@@ -59,11 +59,11 @@ last_modified_at: 2021-03-08
 &#128073;마지막으로 다음에 해보고 싶은 일 정리하며 마무리,,<br> 그 와중에 체크박스가 안되서 HTML로 작성했는데 체크표시가 안됨 ㅋㅋㅋㅋ
 
 
-<input type="checkbox" disabled  /> 프로필 <span style="color:red">멋지게</span> 바꾸기 <br>
-<input type="checkbox" disabled  /> 게시글 날짜 나오게 수정<br>
-<input type="checkbox" disabled  /> 상단바 만들기 <br>
-<input type="checkbox" disabled  /> 폰트 defualt 값 좀 예쁜 걸로 바꿔보기<br>
-<input type="checkbox" disabled  /> 깃 레파지토리랑 연동해서 글 쓰기가 가능한지 알아보기<br>
+- 프로필 <span style="color:red">멋지게</span> 바꾸기 <br>
+- ~~게시글 날짜 나오게 수정~~<br>
+- 상단바 만들기 <br>
+- 폰트 defualt 값 좀 예쁜 걸로 바꿔보기<br>
+- 깃 레파지토리랑 연동해서 글 쓰기가 가능한지 알아보기<br>
 
 **추가 21.03.08** &#128073; 로컬서버에서 블로그에 적용될 모습 보기
 
