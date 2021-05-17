@@ -19,8 +19,8 @@ last_modified_at: 2021-05-17
 
  이 글은 아래 두 블로그를 참고하여 작성되었습니다.
 
- - https://moonsiri.tistory.com/69
- - https://www.hanumoka.net/2020/05/21/springBoot-20200521-springboot-thymeleaf-layout-dialect/
+ - <https://moonsiri.tistory.com/69>
+ - <https://www.hanumoka.net/2020/05/21/springBoot-20200521-springboot-thymeleaf-layout-dialect/>
  
 
 <br>
