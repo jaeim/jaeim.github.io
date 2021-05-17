@@ -86,6 +86,8 @@ implementation 'nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect'
 </footer>
 ```
 
+<br>
+
 # 5. layout폴더 아래 basic_layout.html을 생성
 
 ```html
